@@ -9,6 +9,8 @@
 ##### 💉 Scraping / Extraction
 ##### 🎨 And lots of other stuff if you look below
 
+<br><br>
+
 ### Heres a few projects I've been working on:
 
 #### 🔨 DIY Projects:
