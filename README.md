@@ -1,12 +1,12 @@
 # Hello! 
-### I'm 641i130 or c4r3t and I have many interests:
 
+### Below are my interests:
 ##### 🖨️ 3D Printing
 ##### 🖥️ Server configuration
   - Mainly Game servers like Terraria or MC but also things like nginx/apache or postfix/dovecot
 ##### ⌨️ Keyboard Making
 ##### 🎮 Game Design
-##### 💉 Scraping / Extraction
+##### 💉 Scraping / Extraction (Web archiving)
 ##### 🎨 And lots of other stuff if you look below
 
 <br><br>
