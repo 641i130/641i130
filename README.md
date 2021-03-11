@@ -22,7 +22,7 @@
   - [Card Wars TCG Remake](https://github.com/641i130/card-wars-online)
 #### 🔎 Various RE Projects:
   - [DDB Extraction](https://github.com/641i130/ddb-extraction)
-#### 💉 Scrapers [My favorite hobby]:
+#### 💉 Web Archiving Tools:
   - [Instagram Story Scraper](https://github.com/641i130/instagram-story-scraper) [Archived]
   - [Multi-purpose Scraper](https://github.com/641i130/aspx-python-scraper)
   - [XML Downloader](https://github.com/641i130/prank-dial-file-downloader)
