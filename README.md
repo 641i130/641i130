@@ -2,15 +2,13 @@
 
 I'm 641i130 or also known as Caret. A few of my current interests are as follows:
 
-🖨️ 3D Printing
-🖥️ Server configuration
-
+- 🖨️ 3D Printing
+- 🖥️ Server configuration
 - Game server configuration like Terraria or Minecraft as well as nginx/apache or postfix/dovecot
-
-⌨️ Keyboard Making (including PCB design, QMK and soldering)
-🎮 Game Design (godot specifically)
-💉Scraping / Extraction (Web archiving)
-日本語 
+- ⌨️ Keyboard Making (including PCB design, QMK and soldering)
+- 🎮 Game Design (godot specifically)
+- 💉Scraping / Extraction (Web archiving)
+- 日本語 
 
 ### Heres a few projects I've been working on:
 
