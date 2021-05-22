@@ -1,15 +1,16 @@
-# Hello! 
+# こんばんは！
 
-### Below are my interests:
-##### 🖨️ 3D Printing
-##### 🖥️ Server configuration
-  - Mainly Game servers like Terraria or MC but also things like nginx/apache or postfix/dovecot
-##### ⌨️ Keyboard Making
-##### 🎮 Game Design
-##### 💉 Scraping / Extraction (Web archiving)
-##### 🎨 And lots of other stuff if you look below
+I'm 641i130 or also known as Caret. A few of my current interests are as follows:
 
-<br><br>
+🖨️ 3D Printing
+🖥️ Server configuration
+
+- Game server configuration like Terraria or Minecraft as well as nginx/apache or postfix/dovecot
+
+⌨️ Keyboard Making (including PCB design, QMK and soldering)
+🎮 Game Design (godot specifically)
+💉Scraping / Extraction (Web archiving)
+日本語 
 
 ### Heres a few projects I've been working on:
 
@@ -22,9 +23,13 @@
   - [Card Wars TCG Remake](https://github.com/641i130/card-wars-online)
 #### 🔎 Various RE Projects:
   - [DDB Extraction](https://github.com/641i130/ddb-extraction)
+
+#### Tutorials/Guides:
+
+- [QMK-Tutorial](https://github.com/641i130/qmk-tutorial)
+
 #### 💉 Web Archiving Tools:
   - [Instagram Story Scraper](https://github.com/641i130/instagram-story-scraper) [Archived]
   - [Multi-purpose Scraper](https://github.com/641i130/aspx-python-scraper)
   - [XML Downloader](https://github.com/641i130/prank-dial-file-downloader)
-  - [Cornell Bird Sounds Scraper](https://github.com/641i130/allaboutbirds-song-scraper)
-
+  - [Cornell Bird Sounds Scraper](https://github.com/641i130/allaboutbirds-song-scraper)⏎  
