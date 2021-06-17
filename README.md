@@ -1,6 +1,4 @@
-# こんばんは！
-
-I'm 641i130 or also known as Caret. A few of my current interests are as follows:
+Hello, I'm 641i130 or Caret. Here are some of my many projects and interests:
 
 - 🖨️ 3D Printing
 - 🖥️ Server configuration
